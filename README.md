@@ -14,7 +14,7 @@ https://people.dsv.su.se/phpmyadmin/index.php?db=db_24282270&table=guestbook
 
 Login using credentials from:
 
-https://people.dsv.su.se/
+https://people.dsv.su.se/...
 
 ___
 
