@@ -26,3 +26,15 @@ ___
 
 sensetive variable values (Database credentials) are stored in: 
 config.properties
+
+___
+
+To create a runnable .jar file:
+
+jar cmf manifest.txt SQLGuestbook_Toros.jar *.class org com config.properties
+
+___
+
+To run .jar file:
+
+java -jar SQLGuestbook_Toros.jar
