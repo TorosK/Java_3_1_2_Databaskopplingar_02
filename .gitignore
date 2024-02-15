@@ -1,0 +1,8 @@
+# Ignore environment variables file
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Configuration file with sensitive information
+config.properties
